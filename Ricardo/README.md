@@ -1,7 +1,8 @@
 # Ricardo Pulido Renteria
 
 ## Datos básicos
-Soy un estudiante de ingeniería en sistemas de 20 años, nacido en Bogotá el 17 de septiembre del 2002. Me encuentro cursando séptimo semestre.
+Soy un estudiante de ingeniería en sistemas de 20 años, nacido en Bogotá el 17 de septiembre del 2002.\
+Me encuentro cursando séptimo semestre.
  
 ## Hobbies
   - **Poesía**
