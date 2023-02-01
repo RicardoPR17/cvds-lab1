@@ -20,10 +20,10 @@ Soy un estudiante de ingeniería en sistemas de 20 años, nacido en Bogotá el 1
 ## Plan de estudios
 Actualmente, me encuentro cursando Ciclos de Vida para el Desarrollo de Software, Redes de computadores, Automatización de Procesos de Negocio y Estética y Cultura. Haciendo seguimiento al plan de estudios 14 con el cual proyecto acabar materias en el segundo semestre del 2024.
 
+## Unión de temas
 ```
 IF idea IS TRUE THEN
   DISPLAY "Creemos algo brillate"
 END-IF
 ```
-![speedcubing](![el-cubo-y-un-cronómetro-d-rápido-de-rubik-del-logotipo-speedcubing-desconciertan-solucionar-la-muestra-aislada-en-fondo-gris-119230352](https://user-images.githubusercontent.com/123812772/215915150-836e6ed3-276f-4e89-80c4-67a134eb88a5.jpg)
-)
+![speedcubing](![images](https://user-images.githubusercontent.com/123812772/215915737-4044a8ea-82a1-4983-8d98-d2808d84f9b5.jpg))
