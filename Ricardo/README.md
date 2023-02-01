@@ -1,7 +1,7 @@
 # Ricardo Pulido Renteria
 
 ## Datos básicos
-Soy un estudiante de ingeniería en sistemas de 20 años, nacido en Bogotá el 17 de septiembre del 2002.\
+Soy un estudiante de ingeniería de sistemas de 20 años, nacido en Bogotá el 17 de septiembre del 2002.\
 Me encuentro cursando séptimo semestre.
  
 ## Hobbies
@@ -15,7 +15,7 @@ Me encuentro cursando séptimo semestre.
  
 ## Estudios
   1. Bachiller 2019 del Gimnasio La Cima
-  2. _Ingeniería de sistemas de la Escuela Colombiana de Ingeniería Julio Garavito (2002 - 2024)_
+  2. _Ingeniería de sistemas de la Escuela Colombiana de Ingeniería Julio Garavito (2020 - 2024)_
   3. Introduction to Computer Science and Programming Using Python del MIT. [Credencial](https://courses.edx.org/certificates/e4338e2fd8bc4a65870f47f33f9c8917)
 
 ## Plan de estudios
