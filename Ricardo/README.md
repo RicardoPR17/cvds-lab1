@@ -27,4 +27,4 @@ IF idea IS TRUE THEN
   DISPLAY "Creemos algo brillate"
 END-IF
 ```
-![speedcubing](![images](https://user-images.githubusercontent.com/123812772/215915737-4044a8ea-82a1-4983-8d98-d2808d84f9b5.jpg))
+![speedcubing](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fspeedcubing&psig=AOvVaw2y03e14g8n9yc1o07SxVi3&ust=1675298568240000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCKC6i9KL8_wCFQAAAAAdAAAAABAD)
