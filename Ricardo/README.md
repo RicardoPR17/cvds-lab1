@@ -27,4 +27,4 @@ IF idea IS TRUE THEN
   DISPLAY "Creemos algo brillate"
 END-IF
 ```
-![speedcubing](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fspeedcubing&psig=AOvVaw2y03e14g8n9yc1o07SxVi3&ust=1675298568240000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCKC6i9KL8_wCFQAAAAAdAAAAABAD)
+![speedcubing](https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.dreamstime.com%2Fel-cubo-y-un-cron%25C3%25B3metro-d-r%25C3%25A1pido-de-rubik-del-logotipo-speedcubing-desconciertan-solucionar-la-muestra-aislada-en-fondo-gris-image119230352&psig=AOvVaw0tbmmM3raZIUKUxaGy0_V3&ust=1675298613006000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPiguueL8_wCFQAAAAAdAAAAABAJ)
