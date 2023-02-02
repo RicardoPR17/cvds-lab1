@@ -28,3 +28,10 @@ IF idea IS TRUE THEN
 END-IF
 ```
 ![speedcubing](https://www.coolthings.com/wp-content/uploads/2020/08/rubiks-connected-cube-1.jpg)
+
+## Git Branching
+A continuación, se presentan los ejercicios de Git Branching de la sección Principal y Remota resueltos en su totalidad.
+
+
+![git branching Pincipal](https://user-images.githubusercontent.com/123812772/216209624-93b9b903-a294-4d65-9503-e258f5e00eb9.PNG)
+![git branching Remota](https://user-images.githubusercontent.com/123812772/216209715-444aca32-8161-4e6b-ab23-a5587cdbcb09.PNG)
